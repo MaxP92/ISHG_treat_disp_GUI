@@ -1,4 +1,7 @@
 # ISHG_treat_disp_GUI
+
+[![DOI](https://zenodo.org/badge/265616729.svg)](https://zenodo.org/badge/latestdoi/265616729)
+
 GUI in MatLab for treating and displaying the images for I-SHG microscopy
 
 --- Best practices --- 
