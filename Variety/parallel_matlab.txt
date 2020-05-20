@@ -1,0 +1,5 @@
+http://vtchl.uiuc.edu/node/537
+
+parpool(4)
+
+parfor i = ...
