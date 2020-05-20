@@ -1,0 +1,19 @@
+2012 : Originally written by M. Rivard  "I_SHG.m", CPU-intense code
+Matlab R2012a
+
+2013 : CA Couture "fit_I_SHG.m", improvements, fast code
+2014 : S. Bancelin : other improvements of I-SHG.m
+Matlab R2012a
+
+2015, 2016, 2017+ :
+GUI + every scripts in M-files (inspired from old, modified) :
+M. Pinsard 
+
+including (but not restricted to) : "I_SHG_GUI.m", 3-phases algos
+
+"I_SHG_2.m" by M. Pinsard with new features,
+discontinued since 2016, minor changes required to make it work again
+
+see each M-file to see the authors
+
+tested in Matlab R2016a then R2017b

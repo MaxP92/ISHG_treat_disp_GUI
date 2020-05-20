@@ -1,0 +1,47 @@
+A line of source code is defined to be not a comment line, 
+not a continuation of a previous line, and not an empty line.
+
+locSum = slocDir('C:\Users\pc\Desktop\s')
+C:\Users\pc\Desktop\s\I_SHG_2.m : 134 LOC
+C:\Users\pc\Desktop\s\I_SHG_GUI.m : 1849 LOC
+C:\Users\pc\Desktop\s\algo3ph_stepone_it_par.m : 152 LOC
+C:\Users\pc\Desktop\s\algo3ph_stepthree_it.m : 116 LOC
+C:\Users\pc\Desktop\s\algo3ph_steptwo_it.m : 148 LOC
+C:\Users\pc\Desktop\s\algo3ph_zero_it_par.m : 41 LOC
+C:\Users\pc\Desktop\s\analyse_cos_ISHG.m : 81 LOC
+C:\Users\pc\Desktop\s\average_nearest.m : 52 LOC
+C:\Users\pc\Desktop\s\avg_whole_img_ISHG.m : 35 LOC
+C:\Users\pc\Desktop\s\choosedialog.m : 115 LOC
+C:\Users\pc\Desktop\s\contrast_by_subtract_img_ISHG.m : 139 LOC
+C:\Users\pc\Desktop\s\correct_phase_ref_subtract.m : 64 LOC
+C:\Users\pc\Desktop\s\crop_img_ISHG.m : 46 LOC
+C:\Users\pc\Desktop\s\diff_phase_stack_ISHG.m : 15 LOC
+C:\Users\pc\Desktop\s\draw_plots_ISHG.m : 66 LOC
+C:\Users\pc\Desktop\s\erase_img_avg_stck.m : 62 LOC
+C:\Users\pc\Desktop\s\exclude_area_ISHG.m : 38 LOC
+C:\Users\pc\Desktop\s\filtering_img_stef.m : 30 LOC
+C:\Users\pc\Desktop\s\fit_I_SHG_2.m : 43 LOC
+C:\Users\pc\Desktop\s\fit_hist2d_ishg.m : 332 LOC
+C:\Users\pc\Desktop\s\hist2D_ISHG.m : 26 LOC
+C:\Users\pc\Desktop\s\hist_3D_ISHG.m : 42 LOC
+C:\Users\pc\Desktop\s\hist_spec_region_ISHG.m : 78 LOC
+C:\Users\pc\Desktop\s\hist_tot_ISHG.m : 6 LOC
+C:\Users\pc\Desktop\s\load_axis_param.m : 15 LOC
+C:\Users\pc\Desktop\s\load_phase_func.m : 95 LOC
+C:\Users\pc\Desktop\s\load_stack_plot_ISHG.m : 320 LOC
+C:\Users\pc\Desktop\s\map_spec_region_ISHG.m : 9 LOC
+C:\Users\pc\Desktop\s\miji_save_img.m : 80 LOC
+C:\Users\pc\Desktop\s\normalize_interframes_func.m : 39 LOC
+C:\Users\pc\Desktop\s\perturbations_spatial.m : 23 LOC
+C:\Users\pc\Desktop\s\phase_algo_3frames3.m : 219 LOC
+C:\Users\pc\Desktop\s\phase_calc_ISHG.m : 41 LOC
+C:\Users\pc\Desktop\s\phase_map_ISHG.m : 98 LOC
+C:\Users\pc\Desktop\s\pl_phasemap_ISHG.m : 18 LOC
+C:\Users\pc\Desktop\s\realign_pattern.m : 30 LOC
+C:\Users\pc\Desktop\s\save_results_stack_ISHG2.m : 28 LOC
+C:\Users\pc\Desktop\s\string_axis_ISHG.m : 24 LOC
+C:\Users\pc\Desktop\s\subplane_mp.m : 151 LOC
+C:\Users\pc\Desktop\s\uigetdirMultiSelect.m : 19 LOC
+C:\Users\pc\Desktop\s\unwrap_2D_MP.m : 123 LOC
+C:\Users\pc\Desktop\s\verify_convergence_STP3_algo.m : 24 LOC
+C:\Users\pc\Desktop\s : 5066 LOC
