@@ -1,15 +1,14 @@
 # ISHG_treat_disp_GUI
 GUI in MatLab for treating and displaying the images for I-SHG microscopy
 
-
 --- Best practices --- 
-
-
-To run, use the 
+To run, execute the I_SHG_GUI.m 
 A GUI should appear if no errors  
+You might open I_SHG_GUI.fig in GUIDE
+THe standalone (no GUI) code I_SHG_2.m might also work, but with few variables fixes
 
 The main GUI:
-![](https://github.com/MaxP92/ISHG_treat_disp_GUI/blob/master/images/gui_screenshot.png?raw=true)
+![](https://github.com/MaxP92/ISHG_treat_disp_GUI/blob/master/images/gui_matlab.png?raw=true)
 
 --- Infos ---  
 Testing in Windows (7) x64  
@@ -20,8 +19,8 @@ MatLab R2017b (worked with R2016a and R2019a)
 - files in "Variety"
  
 ---- Files -----  
-
-.pdf for a FULL DESCRIPTION of the GUI
+Lots of .m files are called by I_SHG_GUI.m, or by other sub-files
+I-SHG_GUI.pdf for a FULL DESCRIPTION of the GUI
  
 
 ---- I-SHG -----  
